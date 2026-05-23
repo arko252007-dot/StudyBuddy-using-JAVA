@@ -48,6 +48,17 @@ The `StudyBuddy` engine scans user inputs dynamically. You can trigger specific 
 Ensure you have the Java Runtime Environment (JRE) installed. You can check by running:
 ```bash
 java -version
+```
+
+### Execution Steps
+1. Clone or download only the compiled StudyBuddy.jar artifact from this repository.
+
+2. Open your terminal or system command prompt and navigate to the directory holding the downloaded file.
+
+3. Fire up the application using the standalone deployment flag:
+```bash
+java -jar StudyBuddy.jar
+```
 
 ---
 
